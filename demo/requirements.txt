@@ -1,0 +1,13 @@
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+flask>=3.0.0
+requests>=2.31.0
+
+# KiCad file parsing
+# We'll implement our own lightweight parser first
+# sexpdata>=0.0.3  # S-expression parser (if needed)
+
+# Optional: ML libraries (add if we get to ML stage)
+# torch>=2.0.0
+# scikit-learn>=1.3.0
